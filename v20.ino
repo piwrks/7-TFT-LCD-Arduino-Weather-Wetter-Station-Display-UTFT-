@@ -59,8 +59,8 @@ DeviceAddress temp6 = {  0x28, 0x17, 0xE5, 0x34, 0x05, 0x00, 0x00, 0xBB };
 SdFat sd;
 
 //For Sunrise and Sunset
-#define LAT 48.61  // latitude in degrees, south is negative (used in sun calculation)
-#define LON 9.54  // longitude in degrees, west is negative (used in sun calculation)
+#define LAT 48.21  // latitude in degrees, south is negative (used in sun calculation)
+#define LON 9.44  // longitude in degrees, west is negative (used in sun calculation)
 
 
 // Zeitintervalle setzen
